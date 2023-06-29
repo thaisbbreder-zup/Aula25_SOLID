@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="236a771f-9f90-4a5c-a65e-6bc3c2b2f515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula25_SOLID.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/ExibicaoDeInformacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/FronteirasAlemanha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/FronteirasBrasil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/Pais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lista07_Composicoes/SOLID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/AdicionarProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/ExcluirProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/ExibirProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/GerenciadorProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/OperacaoProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
