@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="236a771f-9f90-4a5c-a65e-6bc3c2b2f515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/AdicionarProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/ExcluirProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/ExibirProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/GerenciadorProdutos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/OperacaoProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorProdutos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorCandidatos/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorCandidatos/GerenciadorCandidatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorCandidatos/ListaCandidatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaRevisão/GerenciadorCandidatos/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
